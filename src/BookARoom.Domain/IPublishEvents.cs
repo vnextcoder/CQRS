@@ -1,3 +1,4 @@
+using System;
 namespace BookARoom.Domain
 {
     public interface IPublishEvents
